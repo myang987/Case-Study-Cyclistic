@@ -1,6 +1,6 @@
-data/2020new/*
-data/2020old/*
-stations/*
+data/2020new/*.csv
+data/2020old/*.csv
+stations/*.csv
 temp.csv
 tmp.md
 pre_2020_data.csv
