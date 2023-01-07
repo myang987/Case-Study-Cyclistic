@@ -35,7 +35,8 @@ The objective of this case study is to describe the process, detail the findings
 ## Data
 The data was stored on the cloud in an AWS server in CSV format organized by various date ranges. Data uploaded after April 2020 were consistently organized by the month. Data prior to April 2020 were organized by varied time periods, from quarterly to yearly data.
 
-(insert picture of data)
+![Data Storage](/pictures/data_screenshot.png)
+<sub>The storage organization change after April 2020</sub><br /><br />
 
 The data recorded the user information, time, and geolocation data of Cyclistic customer's trips. The trips recorded the datetime and geo-coordinates of what station the trips began and ended at. 
 
