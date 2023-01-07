@@ -33,14 +33,21 @@ The objective of this case study is to describe the process, detail the findings
 **Reports & Documentation:** Google Doc<br />
 
 ## Data
-The data was stored on the cloud in an AWS server in CSV format organized by various date ranges. The most common form was by quarterly data, however a few files were organized by individual months.
+The data was stored on the cloud in an AWS server in CSV format organized by various date ranges. Data uploaded after April 2020 were consistently organized by the month. Data prior to April 2020 were organized by varied time periods, from quarterly to yearly data.
 
 (insert picture of data)
 
-
+The data recorded the user information, time, and geolocation data of Cyclistic customer's trips. The trips recorded the datetime and geo-coordinates of what station the trips began and ended at. 
 
 ## Complications
+The data is a collection of timeseries data ranging from Jan 2013 to Dec 2022. The schema for the data varied but were consistent for periods of time. The most notable difference is the schema change pre and post 2020. 
 
+| | | | | | | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Post-2020 Schema | ride_id | rideable_type | started_at | ended_at | start_station_name | start_station_id | end_station_name | end_station_id | start_lat | start_lng | end_lat | end_lng | member_casual |
+| Pre-2020 Schema | trip_id | start_time | end_time | bikeid | tripduration | from_station_id | from_station_name | to_station_id | to_station_name | usertype | gender | birthyear |
+
+After manually checking the schema of each CSV, the data was stored into seperate folders by schema. A program was then created to create seperate dataframes containing the data of each folder to be clean and merged in Python.
 
 # Analysis
 ## Types of data:
