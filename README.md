@@ -33,6 +33,10 @@ The objective of this case study is to describe the process, detail the findings
 **Reports & Documentation:** Google Doc<br />
 
 ## Data
+The data was stored on the cloud in an AWS server in CSV format organized by various date ranges. The most common form was by quarterly data, however a few files were organized by individual months.
+
+(insert picture of data)
+
 
 
 ## Complications
