@@ -66,7 +66,7 @@ The analysis is conducted on data acquired between January 2020 and November 202
 
 
 **<ins>Breakdown of ride type grouped by membership type</ins>**<br />
-![Ride Type by Member Type](/pictures/member_ride_type_breakdown.png)
+<img src="/pictures/member_ride_type_breakdown.png" alt="Ride Type by Member Type" height="776" width="1302"/>
 
 
 **<ins>Customer traffic by month from 2020-01 to 2022-11</ins>**<br />
