@@ -51,10 +51,29 @@ The data is a collection of timeseries data ranging from Jan 2013 to Dec 2022. T
 After manually checking the schema of each CSV, the data was stored into seperate folders by schema. A program was then created to create seperate dataframes containing the data of each folder to be clean and merged in Python.
 
 # Analysis
+The analysis is conducted on data acquired between January 2020 and November 2022 for a total of 14,270,395 points of data.
 ## Types of data:
 
 
 ## Findings
+**Proportion of trips conducted by casual riders and annual members**<br />
+![Distribution of membership](/pictures/member_percentage.png)
+
+
+**Proportion of trips used by different types of bikes**<br />
+![Distribution of bike type](/images/ride_type_percentage.png)
+
+
+**Breakdown of ride type grouped by membership type**<br />
+![]()
+
+
+**Customer traffic by month from 2020-01 to 2022-11**<br />
+![]()
+
+
+**Customer traffic by hour of day**<br />
+![]()
 
 
 
