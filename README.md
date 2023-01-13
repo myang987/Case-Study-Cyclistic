@@ -78,6 +78,10 @@ The analysis is conducted on data acquired between January 2020 and November 202
 
 ### Tableau Dashboard Analysis
 The findings of the EDA provided a general view of how Cyclistic's services are being used by customers. A visual dashboard helps further the analysis while providing a visual aid in understanding geographic coordinate data.
+**Dashboard Overview**<br />
+![Dashboard Filters](/pictures/dashboard_top.png)
+![Dashboard Map](/pictures/dashboard_bot.png)
+
 
 ## Limitations
 
