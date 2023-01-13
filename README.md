@@ -56,6 +56,7 @@ The analysis is conducted on data acquired between January 2020 and November 202
 
 
 ## Findings
+### Exploratory Data Analysis
 **<ins>Proportion of trips conducted by casual riders and annual members</ins>**<br />
 ![Distribution of membership](/pictures/member_percentage.png)
 
@@ -75,7 +76,8 @@ The analysis is conducted on data acquired between January 2020 and November 202
 **<ins>Customer traffic by hour of day</ins>**<br />
 ![]()
 
-
+### Tableau Dashboard Analysis
+The findings of the EDA provided a general view of how Cyclistic's services are being used by customers. A visual dashboard helps further the analysis while providing a visual aid in understanding geographic coordinate data.
 
 ## Limitations
 
