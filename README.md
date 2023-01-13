@@ -61,7 +61,7 @@ The analysis is conducted on data acquired between January 2020 and November 202
 
 
 **Proportion of trips used by different types of bikes**<br />
-![Distribution of bike type](/images/ride_type_percentage.png)
+![Distribution of bike type](/pictures/ride_type_percentage.png)
 
 
 **Breakdown of ride type grouped by membership type**<br />
