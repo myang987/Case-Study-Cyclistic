@@ -56,23 +56,23 @@ The analysis is conducted on data acquired between January 2020 and November 202
 
 
 ## Findings
-**Proportion of trips conducted by casual riders and annual members**<br />
+**<ins>Proportion of trips conducted by casual riders and annual members</ins>**<br />
 ![Distribution of membership](/pictures/member_percentage.png)
 
 
-**Proportion of trips used by different types of bikes**<br />
+**<ins>Proportion of trips used by different types of bikes</ins>**<br />
 ![Distribution of bike type](/pictures/ride_type_percentage.png)
 
 
-**Breakdown of ride type grouped by membership type**<br />
+**<ins>Breakdown of ride type grouped by membership type</ins>**<br />
 ![]()
 
 
-**Customer traffic by month from 2020-01 to 2022-11**<br />
+**<ins>Customer traffic by month from 2020-01 to 2022-11</ins>**<br />
 ![]()
 
 
-**Customer traffic by hour of day**<br />
+**<ins>Customer traffic by hour of day</ins>**<br />
 ![]()
 
 
