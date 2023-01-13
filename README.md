@@ -66,15 +66,15 @@ The analysis is conducted on data acquired between January 2020 and November 202
 
 
 **<ins>Breakdown of ride type grouped by membership type</ins>**<br />
-![]()
+![Ride Type by Member Type](/pictures/member_ride_type_breakdown.png)
 
 
 **<ins>Customer traffic by month from 2020-01 to 2022-11</ins>**<br />
-![]()
+![Trips per Month](/pictures/ride_per_month.png)
 
 
 **<ins>Customer traffic by hour of day</ins>**<br />
-![]()
+![Trips per Hour of Day](/pictures/ride_hour_of_day.png)
 
 ### Tableau Dashboard Analysis
 The findings of the EDA provided a general view of how Cyclistic's services are being used by customers. A visual dashboard helps further the analysis while providing a visual aid in understanding geographic coordinate data. <br />
