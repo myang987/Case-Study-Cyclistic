@@ -68,13 +68,13 @@ The findings of the EDA provided a general view of how Cyclistic's services are 
 The analysis is conducted on data acquired between January 2020 and November 2022 for a total of 14,270,395 points of data.<br />
 The types of data available for analysis: <br />
 **- Date (Month graph)** <br />
-Can be visualized in a Month vs Trip Volume graph.<br />
+&emsp;Can be visualized in a Month vs Trip Volume graph.<br />
 **- Time (Time of day graph)** <br />
-Can be visualized in a Time of Day vs Trip Volume graph<br />
+&emsp;Can be visualized in a Time of Day vs Trip Volume graph<br />
 **- Type of ride (Trip type graph)** <br />
-Can be visualized in a Ride Type vs Trip Volume graph<br />
+&emsp;Can be visualized in a Ride Type vs Trip Volume graph<br />
 **- Location (Geo-Map)** <br />
-Can be visualized through a geographic map.<br />
+&emsp;Can be visualized through a geographic map.<br />
 
 
 ## Findings
