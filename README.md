@@ -51,37 +51,54 @@ The data is a collection of timeseries data ranging from Jan 2013 to Dec 2022. T
 After manually checking the schema of each CSV, the data was stored into seperate folders by schema. A program was then created to create seperate dataframes containing the data of each folder to be clean and merged in Python.
 
 # Analysis
-The analysis is conducted on data acquired between January 2020 and November 2022 for a total of 14,270,395 points of data.
+The goal of our analysis is the generate ideas on how to convert casual riders into annual members for a marketing campaign that targets the benefits of being an annual member. To do so, we need to first understand the differences casual riders and annual members, how these two demographics use the services differently.
+
+### Tableau Dashboard
+The findings of the EDA provided a general view of how Cyclistic's services are being used by customers. A visual dashboard helps further the analysis while providing a visual aid in understanding geographic coordinate data. <br />
+
+<details>
+    <summary>Click me</summary>
+**<ins>Dashboard Overview</ins>**<br />
+  <img src="/pictures/dashboard_top.png" alt="Dashboard Filters"/>
+  <img src="/pictures/dashboard_bot_V2.png" alt="Dashboard Map"/>
+<br />
+</details>
+
 ## Types of data:
+The analysis is conducted on data acquired between January 2020 and November 2022 for a total of 14,270,395 points of data.<br />
+The types of data available for analysis: <br />
+**- Date (Month graph)** <br />
+Can be visualized in a Month vs Trip Volume graph.<br />
+**- Time (Time of day graph)** <br />
+Can be visualized in a Time of Day vs Trip Volume graph<br />
+**- Type of ride (Trip type graph)** <br />
+Can be visualized in a Ride Type vs Trip Volume graph<br />
+**- Location (Geo-Map)** <br />
+Can be visualized through a geographic map.<br />
 
 
 ## Findings
-### Exploratory Data Analysis
+
 **<ins>Proportion of trips conducted by casual riders and annual members</ins>**<br />
 ![Distribution of membership](/pictures/member_percentage.png)
-
 
 **<ins>Proportion of trips used by different types of bikes</ins>**<br />
 ![Distribution of bike type](/pictures/ride_type_percentage.png)
 
-
 **<ins>Breakdown of ride type grouped by membership type</ins>**<br />
 <img src="/pictures/member_ride_type_breakdown.png" alt="Ride Type by Membership" width="391" height="233"/>
 
+### Date
 **<ins>Customer traffic by month from 2020-01 to 2022-11</ins>**<br />
 <img src="/pictures/ride_per_month.png" alt="Trips per Month" width="465" height="378"/>
 
+### Time
 **<ins>Customer traffic by hour of day</ins>**<br />
 <img src="/pictures/ride_hour_of_day.png" alt="Trips per Hour of Dayh" width="468" height="329"/>
 
-### Tableau Dashboard Analysis
-The findings of the EDA provided a general view of how Cyclistic's services are being used by customers. A visual dashboard helps further the analysis while providing a visual aid in understanding geographic coordinate data. <br />
-**<ins>Dashboard Overview</ins>**<br />
-![Dashboard Filters](/pictures/dashboard_top.png)
-![Dashboard Map](/pictures/dashboard_bot_V2.png)
-<br />
+### Ride Type
 
-a
+### Location
 
 ## Limitations
 
