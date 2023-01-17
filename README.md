@@ -78,7 +78,7 @@ The analysis is conducted on data acquired between January 2020 and November 202
 The findings of the EDA provided a general view of how Cyclistic's services are being used by customers. A visual dashboard helps further the analysis while providing a visual aid in understanding geographic coordinate data. <br />
 **<ins>Dashboard Overview</ins>**<br />
 ![Dashboard Filters](/pictures/dashboard_top.png)
-![Dashboard Map](/pictures/dashboard_bot.png)
+![Dashboard Map](/pictures/dashboard_bot_V2.png)
 <br />
 
 a
