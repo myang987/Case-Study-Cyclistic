@@ -101,10 +101,11 @@ There are small, yet noticable, differences between members and casual riders:
 - Casual rider activity shows a steeper surge during the summer and an ealier peak than member activity.
 - Member activity gradually increases in activity, peaking in August, while casual rider activity peaks in July. 
 - Casual-rider activity exhibits a relatively consistent decline as compared to members. 
-- Member activity experiences minimal declines after August until October, where then the trip volume drastically declines. 
-<br />
-These trends can be explained by the difference in trip motive between members and casual-riders. <br />
-**A hypothesis is that many casual-riders use Cyclistic for leisure while members use Cyclistic for commute.**<br />
+- Member activity experiences minimal declines after August until October, where then the trip volume drastically declines. <br />
+
+These trends can be explained by the difference in trip motive between members and casual-riders.
+
+**A hypothesis is that many casual-riders use Cyclistic for leisure while members use Cyclistic for commute.** <br />
 ![Monthly Trip Volume](/pictures/trip_start-month.png)
 
 
