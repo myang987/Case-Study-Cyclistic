@@ -84,16 +84,26 @@ Using the dashboard, we are able to visualize the data based on certain selected
 - Average Start Staion Capacity
 - Average End Station Capacity
 ### Trip Volume
-First taking a look at the trip volume trends over our time period (01/2020 - 11/2022). Cyclistic has seen a steady growth in their trip volume for both members and casual-riders post-pandemic. Monthly trip volume has grown just over 30% over the course of the data; peak month trip volume rose from 621,423 in 2020 to 822,541 in 2022. <br />
+First we take a look at the trip volume trends over our time period (01/2020 - 11/2022). Cyclistic has seen steady growth in their trip volume for both members and casual-riders post-pandemic. Monthly trip volume has grown just over 30% over the course of the data; peak month trip volume rose from 621,423 in 2020 to 822,541 in 2022. <br />
 
-On average, members have higher trip volumes than casual-riders, with the exception July 2021. Member trip volume has also grown slightly faster than casual-rider volume. <br />
+On average, members use Cyclistic more compared to casual-riders, with the exception July 2021. Member trip volume has also grown at a slightly higher rate than casual-rider trip volume. <br />
 
 From the time chart, trip volume surge during the warmer months and wanes during colder months. This is to be expected as the utility of a bicycle drastically diminishes in the event of cold or bad weather. <br />
+
 ![Trip Volume over Time](/pictures/trip_volume-time.png)
 <br />
+
 Closer Examination of monthly and hourly trends will reveal user patterns and preferences. <br />
-The beakdown of trip volume throughout each month shows, again, the popularity of bycicle services during the warmers months. Both members and casual-riders show gradual growth in activity throughout Spring, reaching peak in summer, steap decline in Fall, and bottom in Winter. <br />
-There is a small, yet noticable, differences between members and casual riders. Casual rider activity shows a steeper surge during the summer than member activity. As well as an earlier peak than members. Member activity gradually increases in activity, peaking in August, while casual rider activity peaks in July. Casual-rider activity also a more consistent decline than members. Member activity experiences minimal declines after August until October, where then the trip volume drastically declines. This trend can be explained by the difference in trip motive between members and casual-riders. 
+
+The beakdown of trip volume throughout each month shows the popularity of bycicle services throughout the seasons. Both members and casual-riders show gradual growth in activity throughout Spring, reaching peak in summer, steap decline in Fall, and bottom in Winter. <br />
+
+There are small, yet noticable, differences between members and casual riders: 
+- Casual rider activity shows a steeper surge during the summer and an ealier peak than member activity.
+- Member activity gradually increases in activity, peaking in August, while casual rider activity peaks in July. 
+- Casual-rider activity exhibits a relatively consistent decline as compared to members. 
+- Member activity experiences minimal declines after August until October, where then the trip volume drastically declines. 
+<br />
+These trends can be explained by the difference in trip motive between members and casual-riders. <br />
 **A hypothesis is that many casual-riders use Cyclistic for leisure while members use Cyclistic for commute.**<br />
 ![Monthly Trip Volume](/pictures/trip_start-month.png)
 
