@@ -106,7 +106,7 @@ There are small, yet noticable, differences between members and casual riders:
 These trends can be explained by the difference in trip motive between members and casual-riders.
 
 **A hypothesis is that many casual-riders use Cyclistic for leisure while members use Cyclistic for commute.** <br />
-![Monthly Trip Volume](/pictures/trip_start-month.png)
+![Monthly Trip Volume](/pictures/trip_start-monthV2.png)
 
 
 **<ins>Proportion of trips conducted by casual riders and annual members</ins>**<br />
