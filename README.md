@@ -58,9 +58,9 @@ The findings of the EDA provided a general view of how Cyclistic's services are 
 
 <details>
     <summary>Click me</summary>
-**<ins>Dashboard Overview</ins>**<br />
+<ins>Dashboard Overview</ins><br />
   <img src="/pictures/dashboard_top.png" alt="Dashboard Filters"/>
-  <img src="/pictures/dashboard_bot_V2.png" alt="Dashboard Map"/>
+  <img src="/pictures/dashboard_bot_V3.png" alt="Dashboard Map"/>
 <br />
 </details>
 
@@ -78,6 +78,9 @@ The types of data available for analysis: <br />
 
 
 ## Findings
+### Trip Volume
+First taking a look at the trip volume trends over our time period (01/2020 - 11/2022).
+
 
 **<ins>Proportion of trips conducted by casual riders and annual members</ins>**<br />
 ![Distribution of membership](/pictures/member_percentage.png)
