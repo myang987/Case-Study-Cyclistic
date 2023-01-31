@@ -59,7 +59,6 @@ The findings of the EDA provided a general view of how Cyclistic's services are 
 <details>
     <summary>Click me</summary>
 <ins>Dashboard Overview</ins><br />
-  <img src="/pictures/dashboard_top.png" alt="Dashboard Filters"/>
   <img src="/pictures/dashboard_bot_V3.png" alt="Dashboard Map"/>
 <br />
 </details>
@@ -78,9 +77,19 @@ The types of data available for analysis: <br />
 
 
 ## Findings
+Using the dashboard, we are able to visualize the data based on certain selected metrics:
+- Trip Volume
+- Average Trip Distance
+- Average Trip Time
+- Average Start Staion Capacity
+- Average End Station Capacity
 ### Trip Volume
-First taking a look at the trip volume trends over our time period (01/2020 - 11/2022).
+First taking a look at the trip volume trends over our time period (01/2020 - 11/2022). Cyclistic has seen a steady growth in their trip volume for both members and casual-riders post-pandemic. Monthly trip volume has grown just over 30% over the course of the data; peak month trip volume rose from 621,423 in 2020 to 822,541 in 2022. <br />
 
+On average, members have higher trip volumes than casual-riders, with the exception July 2021. Member trip volume has also grown slightly faster than casual-rider volume. <br />
+
+From the time chart, trip volume surge during the warmer months and wanes during colder months. This is to be expected as the utility of a bicycle drastically diminishes in the event of cold or bad weather. <br />
+![Monthly Trip Volume](/pictures/trip_volume-time.png)
 
 **<ins>Proportion of trips conducted by casual riders and annual members</ins>**<br />
 ![Distribution of membership](/pictures/member_percentage.png)
