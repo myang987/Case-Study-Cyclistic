@@ -89,7 +89,14 @@ First taking a look at the trip volume trends over our time period (01/2020 - 11
 On average, members have higher trip volumes than casual-riders, with the exception July 2021. Member trip volume has also grown slightly faster than casual-rider volume. <br />
 
 From the time chart, trip volume surge during the warmer months and wanes during colder months. This is to be expected as the utility of a bicycle drastically diminishes in the event of cold or bad weather. <br />
-![Monthly Trip Volume](/pictures/trip_volume-time.png)
+![Trip Volume over Time](/pictures/trip_volume-time.png)
+<br />
+Closer Examination of monthly and hourly trends will reveal user patterns and preferences. <br />
+The beakdown of trip volume throughout each month shows, again, the popularity of bycicle services during the warmers months. Both members and casual-riders show gradual growth in activity throughout Spring, reaching peak in summer, steap decline in Fall, and bottom in Winter. <br />
+There is a small, yet noticable, differences between members and casual riders. Casual rider activity shows a steeper surge during the summer than member activity. As well as an earlier peak than members. Member activity gradually increases in activity, peaking in August, while casual rider activity peaks in July. Casual-rider activity also a more consistent decline than members. Member activity experiences minimal declines after August until October, where then the trip volume drastically declines. This trend can be explained by the difference in trip motive between members and casual-riders. 
+**A hypothesis is that many casual-riders use Cyclistic for leisure while members use Cyclistic for commute.**<br />
+![Monthly Trip Volume](/pictures/trip_start-month.png)
+
 
 **<ins>Proportion of trips conducted by casual riders and annual members</ins>**<br />
 ![Distribution of membership](/pictures/member_percentage.png)
