@@ -90,7 +90,9 @@ On average, members use Cyclistic more compared to casual-riders, with the excep
 
 From the time chart, trip volume surge during the warmer months and wanes during colder months. This is to be expected as the utility of a bicycle drastically diminishes in the event of cold or bad weather. <br />
 
-![Trip Volume over Time](/pictures/trip_volume-time.png)
+The most popular ride type for annual members is the classic bike, 3.6M classic bike trips compared to 2.8M electric bike trips. Casual riders show no significant preference between classic bikes and electric bikes (2.1M vs 2.3M).
+
+![Trip Volume over Time](/pictures/trip_time_ride-volume.png)
 <br />
 
 Closer Examination of monthly and hourly trends will reveal user patterns and preferences. <br />
