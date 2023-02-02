@@ -105,15 +105,16 @@ There are small, yet noticable, differences between members and casual riders:
 
 These trends can be explained by the difference in trip motive between members and casual-riders.
 
-**Hypothesis: Many casual-riders use Cyclistic for leisure while members use Cyclistic for commute.** <br /><br />
-The graph below depicts the popularity of Cyclistic services throughout each hour of the day. There are many similiarities between the prefences of annual members and the preferences of casual riders. Again, user trips gradually increase in the months of spring and climax inaugust. However, there are also noticable differences in the attack pattern of the perpetrator. 
-<br />
-
+**Hypothesis: Many casual-riders use Cyclistic for leisure while members use Cyclistic for commute.** 
+<br /><br />
 ![Monthly Trip Volume](/pictures/trip_start-monthV2.png)
 <br />
-
+The graph below depicts the popularity of Cyclistic services throughout each hour of the day. There are many similiarities between the prefences of annual members and the preferences of casual riders. Again, user trips gradually increase in the months of spring and climax inaugust. However, there are also noticable differences in the attack pattern of the perpetrator. 
+<br /><br />
+![Monthly Trip Volume](/pictures/trip_start_time-volume.png)
+<br />
 ![Monthly Trip Volume](/pictures/top_stations-volume.png)
-
+<br />
 
 **<ins>Proportion of trips conducted by casual riders and annual members</ins>**<br />
 ![Distribution of membership](/pictures/member_percentage.png)
