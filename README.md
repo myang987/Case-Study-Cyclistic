@@ -109,10 +109,20 @@ These trends can be explained by the difference in trip motive between members a
 <br /><br />
 ![Monthly Trip Volume](/pictures/trip_start-monthV2.png)
 <br />
-The graph below depicts the popularity of Cyclistic services throughout each hour of the day. There are many similiarities between the prefences of annual members and the preferences of casual riders. Again, user trips gradually increase in the months of spring and climax inaugust. However, there are also noticable differences in the attack pattern of the perpetrator. 
+
+The graph below depicts trip activity levels of Cyclistic services throughout each hour of the day. The usage of Cyclistic services for annual members and casual riders are noticably different. Annual member activity have a higher spike during hours 6-9 and hours 15-19 (3pm-7pm), especially so during the morning session. Casual rider activity exhibits a gradual increase in volume throughout the day, peaking at hour 17 (5pm) before declining.
+
+This trend further supports the previous hypothesis while providing more specific insights. The time period for spikes in trip volume coincides with commute times for a majority of the population. To summarize:
+- Both annual members and casual riders use Cyclistic rental bicycles for work commute.
+- Annual members commute with bicycles in the morning more often than casual riders. <br />
+
+Further analysis is required to determine purpose of trip. Factors such as location and trip distance can help better determine the makeup of casual rider trips. 
+
+**There is potential opportunity available for Cyclistic to convert casual riders to annual members through a marketing campaign focused on work commutes.**
 <br /><br />
 ![Monthly Trip Volume](/pictures/trip_start_time-volume.png)
 <br />
+
 ![Monthly Trip Volume](/pictures/top_stations-volume.png)
 <br />
 
