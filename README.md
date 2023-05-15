@@ -3,7 +3,7 @@
 
 ##### Date: December 30, 2022
 
-##### [Tableau Dashboard](https://public.tableau.com/app/profile/mike3830/viz/CyclisticTripTracker/LandingPag)
+##### [Tableau Dashboard](https://public.tableau.com/app/profile/mike3830/viz/CyclisticTripTracker/LandingPage)
 
 ##### [Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
